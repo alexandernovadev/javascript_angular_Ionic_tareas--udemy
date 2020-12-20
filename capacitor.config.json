@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "MiAppmusical",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

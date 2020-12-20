@@ -1,0 +1,8 @@
+{
+  "name": "MiAppmusical",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
